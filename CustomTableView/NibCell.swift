@@ -13,8 +13,13 @@ class NibCell: UITableViewCell {
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
+        super.awakeFromNib()
+//        self.backgroundColor = UIColor.blueColor()
     }
-
+    required init(coder aDecoder: NSCoder)
+    {
+        super.init(coder: aDecoder)!
+    }
     override func setSelected(selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
 

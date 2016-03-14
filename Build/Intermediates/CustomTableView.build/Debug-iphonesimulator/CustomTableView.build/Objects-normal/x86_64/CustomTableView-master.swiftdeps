@@ -1,0 +1,13 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "a45eb8dc55c0658abb644959e96f7e1d"
+build_time: [511240085, 138608000]
+inputs:
+  "/Users/admin/Desktop/Swift Basis/CustomTableView/CustomTableView/ClassDetailCell.swift": [510755173, 0]
+  "/Users/admin/Desktop/Swift Basis/CustomTableView/CustomTableView/AppDelegate.swift": [510319862, 0]
+  "/Users/admin/Desktop/Swift Basis/CustomTableView/CustomTableView/DetailViewController.swift": [510755173, 0]
+  "/Users/admin/Desktop/Swift Basis/CustomTableView/CustomTableView/ClassCell.swift": [510752832, 0]
+  "/Users/admin/Desktop/Swift Basis/CustomTableView/CustomTableView/ViewController.swift": [511240015, 0]
+  "/Users/admin/Desktop/Swift Basis/CustomTableView/CustomTableView/ClassViewController.swift": [510757162, 0]
+  "/Users/admin/Desktop/Swift Basis/CustomTableView/CustomTableView/NibCell.swift": [510325293, 0]
+  "/Users/admin/Desktop/Swift Basis/CustomTableView/CustomTableView/VideoCell.swift": [9223372036854775807, 0]
+  "/Users/admin/Desktop/Swift Basis/CustomTableView/CustomTableView/StoryBoardCell.swift": [510745586, 0]
